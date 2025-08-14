@@ -14,3 +14,4 @@ Free IT & Cybersecurity Resources for Veterans
 | AWS Educate | Free cloud computing and cybersecurity training with AWS labs and certification prep. | [AWS Educate](https://aws.amazon.com/education/awseducate/veterans/) |
 | IBM SkillsBuild for Veterans | Free IT, cybersecurity, and AI learning with career readiness resources and mentorship. | [IBM SkillsBuild](https://skillsbuild.org/) |
 | Saylor Academy | Earn credit toward a degree. Free courses and $5 for exam to obtain credits | [Saylor Academy](https://www.saylor.org/) |
+| VetSec | Community that provides education, employment, and transition assistance to veterans seeking a career in cybersecurity. | [VetSec](https://vetsec.org/) |
