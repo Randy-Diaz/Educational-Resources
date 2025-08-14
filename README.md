@@ -4,7 +4,7 @@ Free IT & Cybersecurity Resources for Veterans
 
 | Resource Name | Description | Link |
 |---------------|-------------|------|
-| Onward to Opportunity (O2O) – Syracuse University | Career training with industry-recognized IT and cybersecurity certifications for veterans and military families. | [O2O – Syracuse University](https://ivmf.syracuse.edu/programs/career-training/onward-to-opportunity-o2o/) |
+| Onward to Opportunity (O2O) – Syracuse University | Career training with industry-recognized IT and cybersecurity certifications for veterans and military families. | [O2O – Syracuse University](https://ivmf.syracuse.edu/programs/career-training/) |
 | Cisco Networking Academy | Free courses in networking, cybersecurity, and programming. | [Cisco Networking Academy](https://www.netacad.com/) |
 | Microsoft Software & Systems Academy (MSSA) | 17-week training for cloud, security, and networking careers, free for eligible veterans. | [MSSA](https://military.microsoft.com/mssa/) |
 | SANS Cyber Academy | Full scholarships for SANS cybersecurity courses and GIAC certifications for selected veterans. | [SANS Cyber Academy](https://www.sans.org/cyber-academy) |
