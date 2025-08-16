@@ -16,6 +16,6 @@ Free IT & Cybersecurity Resources for Veterans
 | Saylor Academy | Earn credit toward a degree. Free courses and $5 for exam to obtain credits | [Saylor Academy](https://www.saylor.org/) |
 | VetSec | Community that provides education, employment, and transition assistance to veterans seeking a career in cybersecurity. | [VetSec](https://vetsec.org/) |
 | Red Team Leaders | Joas Antonio dos Santos free courses on Red/Blue teaming and Python for cybersecurity and more | [Red Team Leaders](https://redteamleaders.coursestack.com/) |
-| Associate Degree (Board of Governors) | Associates Degree program open to any student who has graduated from high school two or more years prior | [Board of Governors](https://www.pierpont.edu/academics/associate-degrees/board-of-governors/) |
+| Pierpont Community & Technical College: Associate Degree (Board of Governors) | Associates Degree program open to any student who has graduated from high school two or more years prior.  | [Board of Governors](https://www.pierpont.edu/academics/associate-degrees/board-of-governors/) |
 
 
